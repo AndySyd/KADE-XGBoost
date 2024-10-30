@@ -1,2 +1,2 @@
-# DE-XGBoost
-Optimizing hyperparameters of XGBoost and features separately by DE.
+# KADE-XGBoost
+a novel Knowledge Assisted Differential Evolution Extreme Gradient Boost algorithm (KADE-XGBoost).
